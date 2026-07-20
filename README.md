@@ -49,9 +49,9 @@ susceptibility to framing bias.
 ### Study 1 — General Public (n=150)
 | Condition | Proportion Choosing Risky Option |
 |-----------|----------------------------------|
-| Overall | 0.65 |
-| Gain Frame | [your figure] |
-| Loss Frame | [your figure] |
+| Overall | 0.48 |
+| Gain Frame | 0.307 |
+| Loss Frame | 0.653 |
 
 Financial literacy breakdown (self-reported) showed minimal variation across High, 
 Medium and Low literacy groups — suggesting financial knowledge alone does not 
