@@ -106,4 +106,4 @@ the assumption that professional arbitrageurs fully correct for irrational prici
 - Financial literacy in Study 1 was self-reported rather than objectively measured, 
   limiting the validity of that breakdown
 - Sample sizes across both studies were indeed small, so the results may not be representative
-- of the population and must therefore be interpreted with caution
+  of the population and must therefore be interpreted with caution
