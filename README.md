@@ -26,14 +26,14 @@ This project investigates framing effects in financial decision-making across tw
 independent studies:
 
 - **Study 1** — 150 general public participants, randomly approached
-- **Study 2** — 150 finance professionals, surveyed in Canary Wharf, London
+- **Study 2** — 150 finance professionals, also randomly approached
 
 ---
 
 ## Methodology
 
-Participants were randomly assigned one of six scenarios combining two framing 
-conditions (gain/loss) with three market contexts (upward/flat/downward market). 
+Participants were randomly assigned one of six scenarios combining one of two framing 
+conditions (gain/loss) with one of three market contexts (upward/flat/downward market). 
 Each scenario presented an economically equivalent choice between a certain outcome 
 and a risky outcome with identical expected value — isolating the effect of framing 
 while holding expected value constant.
@@ -108,9 +108,5 @@ the assumption that professional arbitrageurs fully correct for irrational prici
 
 - Financial literacy in Study 1 was self-reported rather than objectively measured, 
   limiting the validity of that breakdown
-- An awareness question was piloted in Study 2 but removed after it extended survey 
-  length beyond what was practical for busy professionals in a field setting
-- Market condition was recorded in Study 2 but not Study 1, precluding direct 
-  comparison on that dimension
-- Sample size per experience group in Study 2 is relatively small, meaning 
-  differences between groups should be interpreted cautiously. 
+- Sample sizes across both studies were indeed small, so the results may not be representative
+- of the population and must therefore be interpreted with caution
