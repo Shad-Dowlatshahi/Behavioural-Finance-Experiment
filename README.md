@@ -1,9 +1,6 @@
 # Behavioural-Finance-Experiment
 This is a two-study field research experiment examining the impact of framing effects in financial decision-making. The goal of this project is to illustrate how the framing of an investment scenario affects subjects' willingness to take risks and to determine whether these effects persist among finance professionals. 
 
-# Behavioural Finance: Framing Effects in Financial Decision-Making
-Independent two-study field research examining framing effects in financial decision-making across general public and finance professional populations.
-
 ---
 
 ## Why This Project
