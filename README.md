@@ -32,8 +32,7 @@ independent studies:
 Participants were randomly assigned one of six scenarios combining one of two framing 
 conditions (gain/loss) with one of three market contexts (upward/flat/downward market). 
 Each scenario presented an economically equivalent choice between a certain outcome 
-and a risky outcome with identical expected value — isolating the effect of framing 
-while holding expected value constant.
+and a risky outcome with identical expected value.
 
 Study 2 used identical scenarios to Study 1 to ensure comparability, with the 
 addition of a years of experience variable to examine whether experience moderates 
