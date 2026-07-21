@@ -17,14 +17,14 @@
   "cells": [
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": 1,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
         },
         "id": "J34MSmAoaEYg",
-        "outputId": "85030937-407b-4fb2-9431-7955ed5a0bee"
+        "outputId": "e564ded3-5d51-4934-8834-b78ff7815754"
       },
       "outputs": [
         {
@@ -35,9 +35,9 @@
             ],
             "text/html": [
               "\n",
-              "     <input type=\"file\" id=\"files-89b6b67a-49c1-4f58-9b6f-06ed66c59d63\" name=\"files[]\" multiple disabled\n",
+              "     <input type=\"file\" id=\"files-8cba8fe7-a79d-4fbd-af90-39e7210b3051\" name=\"files[]\" multiple disabled\n",
               "        style=\"border:none\" />\n",
-              "     <output id=\"result-89b6b67a-49c1-4f58-9b6f-06ed66c59d63\">\n",
+              "     <output id=\"result-8cba8fe7-a79d-4fbd-af90-39e7210b3051\">\n",
               "      Upload widget is only available when the cell has been executed in the\n",
               "      current browser session. Please rerun this cell to enable.\n",
               "      </output>\n",
@@ -272,9 +272,9 @@
             ],
             "text/html": [
               "\n",
-              "     <input type=\"file\" id=\"files-bdc240c3-9fc6-4b22-928a-f331959f5996\" name=\"files[]\" multiple disabled\n",
+              "     <input type=\"file\" id=\"files-f191b9c2-9aab-4b15-8f3e-fbe60d8f93f5\" name=\"files[]\" multiple disabled\n",
               "        style=\"border:none\" />\n",
-              "     <output id=\"result-bdc240c3-9fc6-4b22-928a-f331959f5996\">\n",
+              "     <output id=\"result-f191b9c2-9aab-4b15-8f3e-fbe60d8f93f5\">\n",
               "      Upload widget is only available when the cell has been executed in the\n",
               "      current browser session. Please rerun this cell to enable.\n",
               "      </output>\n",
@@ -485,7 +485,7 @@
           "output_type": "stream",
           "name": "stderr",
           "text": [
-            "/tmp/ipykernel_875/2622043209.py:56: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.\n",
+            "/tmp/ipykernel_1265/2622043209.py:56: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.\n",
             "  print(df_study2.groupby(\"Years_of_Experience\")[\"risky choice\"].mean().round(3))\n"
           ]
         },
