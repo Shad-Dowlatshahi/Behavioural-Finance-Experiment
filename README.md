@@ -51,7 +51,7 @@ susceptibility to framing bias.
 | Loss Frame | 0.653 |
 
 Financial literacy breakdown (self-reported) showed minimal variation across High, 
-Medium and Low literacy groups — suggesting financial knowledge alone does not 
+Medium and Low literacy groups, suggesting financial knowledge alone does not 
 protect against framing bias:
 
 | Financial Literacy | Proportion Choosing Risky Option |
@@ -90,14 +90,9 @@ The U-shaped experience curve is particularly striking. Junior professionals sho
 susceptibility levels close to the general public. Mid-career professionals (3-5 
 years) show the greatest resistance, perhaps reflecting peak conscientiousness and 
 active application of analytical frameworks. Senior professionals show a partial 
-reversion toward bias-susceptible behaviour — consistent with Kahneman's work on 
+reversion toward bias-susceptible behaviour, which is consistent with Kahneman's work on 
 overconfidence and the reassertion of System 1 thinking as intuitive 
 decision-making replaces deliberate analysis with experience.
-
-These findings have direct implications for market efficiency. If even experienced 
-finance professionals are susceptible to framing effects, systematic behavioural 
-biases may persist in markets regardless of participant sophistication — challenging 
-the assumption that professional arbitrageurs fully correct for irrational pricing.
 
 ---
 
