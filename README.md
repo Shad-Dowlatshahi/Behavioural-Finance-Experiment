@@ -17,6 +17,13 @@ biases persist regardless of training and knowledge.
 
 ---
 
+## Implementation Notes
+
+For this project, I designed the experiment scenarios, hypotheses, and the data collection and
+analysis approach, and used AI tools to assist with code implementation. 
+
+---
+
 ## Overview
 
 This project investigates framing effects in financial decision-making across two 
